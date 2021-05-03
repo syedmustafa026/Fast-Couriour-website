@@ -1,0 +1,58 @@
+table{
+    height: 90px;
+    width: 100%;
+    
+    
+   
+}
+a{
+    color: black;
+    font-size: x-large;
+font-family: font;
+text-decoration: none;
+    
+}
+body{
+    background: linear-gradient(to right,#3c3c3c,#ad5389);
+}
+*{
+    font-family: font;
+}
+h1{
+    color: black;
+    background-color:blanchedalmond;
+    text-align: center;
+}
+h2{
+    color: blanchedalmond;
+    background-color: linear-gradient(to right,#3c3c3c,#ad5389);
+
+}
+p{
+    color: blanchedalmond;
+}
+.main{
+height: 20%;
+
+}
+#footer{
+    background-color:blanchedalmond;
+    color: linear-gradient(to right,#3c3c3c,#ad5389);;
+}
+.pot{
+    text-align: center;
+    text-align: center;
+}
+.tol{
+    text-align: center;
+}
+@font-face {
+    font-family: font;
+    src: url(fonts/Righteous-Regular.ttf);
+}
+a:hover{
+    color:blanchedalmond;
+    background-color: black;
+}
+
+
